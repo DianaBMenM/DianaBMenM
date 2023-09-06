@@ -1,6 +1,6 @@
 ### ¡Hola mundo! 👋≧◉ᴥ◉≦
 
-- 🌱 I’m currently learning programming, html and JavaScript, in a bootcamp from [Tecnolochicas](https://tecnolochicas.mx/) and I want to know how to use Github
+- 🌱 I’m currently learning programming, HTML and JavaScript, in a bootcamp from [Tecnolochicas](https://tecnolochicas.mx/) and I want to know how to use Github
 - 👯 I’m looking to collaborate on tecnology proyects (specially proyects that need program in HTML or Python)
 - 🤔 I’m looking for help with program in *Python language* and *C++*
 - 💬 Ask me about my proyects in HTML, in fact you can ask me about program in HTML if you need help or inspiration 
